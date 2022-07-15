@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Postgres\" />
+    <None Remove="Dapper" />
+    <None Remove="System.Data.SqlClient" />
+    <None Remove="Microsoft.Extensions.Configuration" />
+    <None Remove="Postgres\Repositorys\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Postgres\" />
+    <Folder Include="Postgres\Repositorys\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\DIP.Core\DIP.Core.csproj" />
+    <ProjectReference Include="..\DIP.Sensor.Domain\DIP.Sensor.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.1" />
+  </ItemGroup>
+</Project>

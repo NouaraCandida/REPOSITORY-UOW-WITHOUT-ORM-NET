@@ -1,0 +1,64 @@
+﻿<Properties StartupConfiguration="{4412535D-C074-450B-8F03-453B3E697C74}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DIP.Core/Repository/IRepositoryBase.cs">
+    <Files>
+      <File FileName="Sensors/DIP.Sensors.Infra/Postgres/UoWApplication.cs" Line="43" Column="1" />
+      <File FileName="Sensors/DIP.Sensors.Infra/Postgres/DBContext.cs" Line="34" Column="1" />
+      <File FileName="Sensors/DIP.Sensors.Infra/Postgres/Repositorys/SensorRepository.cs" Line="42" Column="1" />
+      <File FileName="Sensors/DIP.Sensors.Domain/Models/Sensor.cs" Line="11" Column="27" />
+      <File FileName="Sensors/DIP.Sensors.API/Controllers/SensorController.cs" Line="44" Column="55" />
+      <File FileName="Sensors/DIP.Sensors.Domain/Models/LocalityEnum.cs" Line="13" Column="1" />
+      <File FileName="Sensors/DIP.Sensors.Domain/Models/CountryEnum.cs" Line="6" Column="16" />
+      <File FileName="Sensors/DIP.Sensors.Domain/Models/Event.cs" Line="1" Column="1" />
+      <File FileName="Sensors/DIP.Sensors.API/Controllers/ControllerExceptionExtension.cs" Line="17" Column="71" />
+      <File FileName="DIP.Core/Exceptions/DomainException (copiar).cs" Line="12" Column="33" />
+      <File FileName="DIP.Core/Repository/IRepositoryBase.cs" Line="13" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DIP" expanded="True">
+            <Node name="Sensors" expanded="True">
+              <Node name="DIP.Sensors.API" expanded="True">
+                <Node name="Controllers" expanded="True" />
+              </Node>
+              <Node name="DIP.Sensors.Domain" expanded="True">
+                <Node name="Models" expanded="True">
+                  <Node name="Enums" expanded="True" />
+                </Node>
+                <Node name="Repositorys" expanded="True" />
+              </Node>
+              <Node name="DIP.Sensors.Infra" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                </Node>
+                <Node name="Postgres" expanded="True">
+                  <Node name="Repositorys" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="DIP.Core" expanded="True">
+              <Node name="Exceptions" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="IRepositoryBase.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>DIP.Sensors.API/DIP.Sensors.Infra/DIP.Sensors.Infra.csproj</String>
+    <String>DIP.Sensors.API/DIP.Sensors.Domain/DIP.Sensors.Domain.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Infra/Postgres/Repositorys/SensorRepository.cs" relfile="Sensors/DIP.Sensors.Infra/Postgres/Repositorys/SensorRepository.cs" line="27" column="1" />
+      <Breakpoint file="/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Infra/Postgres/Repositorys/SensorRepository.cs" relfile="Sensors/DIP.Sensors.Infra/Postgres/Repositorys/SensorRepository.cs" line="42" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Sensors.DIP.Sensors.API PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

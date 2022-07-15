@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W/1tehRZOn47Jv5MJV9OpVopzUrALe5XKePzp7niMS1db9isGCEeRgoU6cL8PrwnQ6V2IxCXPX3Wgl/FVW474Q==",
+  "success": true,
+  "projectFilePath": "/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/DIP.Sensors.API/DIP.Sensors.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/nxavier/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "V63FjY4wcDrlq6JhhNoOgtB4/3bp/QoHu8dSxVQ+ZdywLtPpdXAh/YtUGO01ryzkSLVuVpF2zhvyCw/b9w/kWA==",
+  "success": true,
+  "projectFilePath": "/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/DIP.Sensor.API/DIP.Sensor.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.configuration/6.0.1/microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.configuration.binder/2.0.0/microsoft.extensions.configuration.binder.2.0.0.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.dependencymodel/3.0.0/microsoft.extensions.dependencymodel.3.0.0.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.localization/6.0.7/microsoft.extensions.localization.6.0.7.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.localization.abstractions/6.0.7/microsoft.extensions.localization.abstractions.6.0.7.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.logging/2.0.0/microsoft.extensions.logging.2.0.0.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.options.configurationextensions/2.0.0/microsoft.extensions.options.configurationextensions.2.0.0.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/serilog/2.11.0/serilog.2.11.0.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/serilog.extensions.logging/3.1.0/serilog.extensions.logging.3.1.0.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/serilog.settings.configuration/3.3.0/serilog.settings.configuration.3.3.0.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/system.text.json/4.6.0/system.text.json.4.6.0.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

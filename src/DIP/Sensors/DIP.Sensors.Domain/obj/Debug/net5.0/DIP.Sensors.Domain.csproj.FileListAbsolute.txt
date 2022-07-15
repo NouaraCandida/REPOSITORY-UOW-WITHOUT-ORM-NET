@@ -1,0 +1,15 @@
+/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/bin/Debug/net5.0/DIP.Sensors.Domain.deps.json
+/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/bin/Debug/net5.0/DIP.Sensors.Domain.dll
+/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/bin/Debug/net5.0/ref/DIP.Sensors.Domain.dll
+/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/bin/Debug/net5.0/DIP.Sensors.Domain.pdb
+/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/bin/Debug/net5.0/DIP.Core.dll
+/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/bin/Debug/net5.0/DIP.Core.pdb
+/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/obj/Debug/net5.0/DIP.Sensors.Domain.csproj.AssemblyReference.cache
+/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/obj/Debug/net5.0/DIP.Sensors.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/obj/Debug/net5.0/DIP.Sensors.Domain.AssemblyInfoInputs.cache
+/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/obj/Debug/net5.0/DIP.Sensors.Domain.AssemblyInfo.cs
+/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/obj/Debug/net5.0/DIP.Sensors.Domain.csproj.CoreCompileInputs.cache
+/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/obj/Debug/net5.0/DIP.Sensors.Domain.csproj.CopyComplete
+/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/obj/Debug/net5.0/DIP.Sensors.Domain.dll
+/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/obj/Debug/net5.0/ref/DIP.Sensors.Domain.dll
+/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/obj/Debug/net5.0/DIP.Sensors.Domain.pdb

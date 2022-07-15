@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "pNmgVE+QuVwApe5v2wP6DUxO0B1eELlh+AxECZnUet+EkyXlcxn+GjmYGdk6md/nl/rUCZWa7Az6zpWn71rILg==",
+  "success": true,
+  "projectFilePath": "/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/DIP.Core/DIP.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.localization/6.0.7/microsoft.extensions.localization.6.0.7.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.localization.abstractions/6.0.7/microsoft.extensions.localization.abstractions.6.0.7.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/nxavier/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
