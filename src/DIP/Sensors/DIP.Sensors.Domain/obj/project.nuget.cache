@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c8sFVvVgMvC+rh5IB8GkQwpyKezUWyO2pR7Q7mk9OUtpd8d2PNHMLWoOxnZ/iMBrB1o9GqsaXeq+R6JIOM/Pig==",
+  "dgSpecHash": "ySrxjz2pgcG6CKGFe2mRmkS4f4WyKyF2OpqV3yKVZoysZ9G8AMAs3H2TOLbPdcQ8EiOftKtYUkbkQ6Jz5pDOlw==",
   "success": true,
-  "projectFilePath": "/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/DIP.Sensors.Domain.csproj",
+  "projectFilePath": "/Users/nxavier/Desktop/EstudoProg/REPOSITORY-UOW-WITHOUT-ORM-NET/src/DIP/Sensors/DIP.Sensors.Domain/DIP.Sensors.Domain.csproj",
   "expectedPackageFiles": [
     "/Users/nxavier/.nuget/packages/microsoft.extensions.configuration/6.0.1/microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "/Users/nxavier/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

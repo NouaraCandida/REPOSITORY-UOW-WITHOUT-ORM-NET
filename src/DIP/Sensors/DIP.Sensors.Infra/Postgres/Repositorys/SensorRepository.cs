@@ -50,8 +50,8 @@ namespace DIP.Sensors.Infra.Postgres.Repositorys
             //with dapper
             _context.Transaction.CommandText = "insert into sensores (nome, nome_regiao, nome_pais) values (@nome, @nome_regiao, @nome_pais)";
             _context.Transaction.Parameters.AddWithValue("nome", sensor.Name);
-            _context.Transaction.Parameters.AddWithValue("nome_regiao", ((int)sensor.NamePais));
-            _context.Transaction.Parameters.AddWithValue("nome_pais", (int)sensor.NameRegiao);
+            _context.Transaction.Parameters.AddWithValue("nome_regiao", ((int)sensor.NameRegion));
+            _context.Transaction.Parameters.AddWithValue("nome_pais", (int)sensor.NameCountry);
         }
 
         public void Remove(Sensor sensor)

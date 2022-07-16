@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jPPNTjFnlkDDDi8Ysd6o5mg/QanRx/sKsQMDXGcSgOtEfYBl0+HwSMZDeivS4osjoQokcklQj/C4NKcIIIGnAg==",
+  "dgSpecHash": "KDzS8hobVIbQk4LM4Q678yZvspDq8Ch7+oAwOZi8ISJofNC/5mDJArGbKauPjK5WWGDUbp7io+mQlv/0cNbW6w==",
   "success": true,
-  "projectFilePath": "/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Infra/DIP.Sensors.Infra.csproj",
+  "projectFilePath": "/Users/nxavier/Desktop/EstudoProg/REPOSITORY-UOW-WITHOUT-ORM-NET/src/DIP/Sensors/DIP.Sensors.Infra/DIP.Sensors.Infra.csproj",
   "expectedPackageFiles": [
     "/Users/nxavier/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
     "/Users/nxavier/.nuget/packages/microsoft.extensions.configuration/6.0.1/microsoft.extensions.configuration.6.0.1.nupkg.sha512",

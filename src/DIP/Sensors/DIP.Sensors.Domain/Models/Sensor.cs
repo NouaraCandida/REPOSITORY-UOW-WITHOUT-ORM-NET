@@ -7,7 +7,7 @@ namespace DIP.Sensors.Domain.Models
     {
         public Guid Id { get; set; }
         public string Name { get; set; }
-        public RegionEnum NameRegiao { get; set; }
-        public CountryEnum NamePais { get; set; }
+        public RegionEnum NameRegion { get; set; }
+        public CountryEnum NameCountry { get; set; }
     }
 }

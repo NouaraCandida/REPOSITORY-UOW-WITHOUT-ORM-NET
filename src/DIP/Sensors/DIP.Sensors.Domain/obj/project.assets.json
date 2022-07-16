@@ -569,11 +569,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/DIP.Sensors.Domain.csproj",
+      "projectUniqueName": "/Users/nxavier/Desktop/EstudoProg/REPOSITORY-UOW-WITHOUT-ORM-NET/src/DIP/Sensors/DIP.Sensors.Domain/DIP.Sensors.Domain.csproj",
       "projectName": "DIP.Sensors.Domain",
-      "projectPath": "/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/DIP.Sensors.Domain.csproj",
+      "projectPath": "/Users/nxavier/Desktop/EstudoProg/REPOSITORY-UOW-WITHOUT-ORM-NET/src/DIP/Sensors/DIP.Sensors.Domain/DIP.Sensors.Domain.csproj",
       "packagesPath": "/Users/nxavier/.nuget/packages/",
-      "outputPath": "/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/Sensors/DIP.Sensors.Domain/obj/",
+      "outputPath": "/Users/nxavier/Desktop/EstudoProg/REPOSITORY-UOW-WITHOUT-ORM-NET/src/DIP/Sensors/DIP.Sensors.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nxavier/.config/NuGet/NuGet.Config"
@@ -588,8 +588,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/DIP.Core/DIP.Core.csproj": {
-              "projectPath": "/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/DIP.Core/DIP.Core.csproj"
+            "/Users/nxavier/Desktop/EstudoProg/REPOSITORY-UOW-WITHOUT-ORM-NET/src/DIP/DIP.Core/DIP.Core.csproj": {
+              "projectPath": "/Users/nxavier/Desktop/EstudoProg/REPOSITORY-UOW-WITHOUT-ORM-NET/src/DIP/DIP.Core/DIP.Core.csproj"
             }
           }
         }

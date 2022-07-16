@@ -8,6 +8,8 @@
     <None Remove="Serilog" />
     <None Remove="Serilog.Extensions.Logging" />
     <None Remove="Serilog.Settings.Configuration" />
+    <None Remove="DTO\" />
+    <None Remove="Mappers\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Serilog" Version="2.11.0" />
@@ -24,5 +26,9 @@
     <ProjectReference Include="..\..\DIP.Core\DIP.Core.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DTO\" />
+    <Folder Include="Mappers\" />
   </ItemGroup>
 </Project>

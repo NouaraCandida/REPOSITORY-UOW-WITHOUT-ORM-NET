@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using DIP.Core.Validate;
+using DIP.Sensors.API.DTO;
+using DIP.Sensors.API.Mappers;
 using DIP.Sensors.Domain.Models;
 using DIP.Sensors.Domain.Repositorys;
 using Microsoft.AspNetCore.Http;
@@ -19,6 +22,7 @@ namespace DIP.Sensors.API.Controllers
         private readonly ILogger<SensorController> _logger;
         private readonly IUoWApplication _uoW;
         private readonly IStringLocalizer _stringLocalizer;
+        private readonly IValidate _validate;
 
         public SensorController(ILogger<SensorController> logger, IUoWApplication uoW, IStringLocalizer stringLocalizer)
         {
@@ -35,14 +39,14 @@ namespace DIP.Sensors.API.Controllers
         [ProducesResponseType(StatusCodes.Status401Unauthorized)]
         [ProducesResponseType(StatusCodes.Status409Conflict)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public ActionResult<Guid> PostSensor([FromBody] Sensor sensor)
+        public ActionResult<Guid> PostSensor([FromBody] SensorDTO sensor)
         {
             try
             {
                 if (sensor == null) return BadRequest(_stringLocalizer["SensorNotNull"]);
                 sensor.Id = Guid.NewGuid();
                 _uoW.BeginTransaction();
-                _uoW.SensorRepository.Insert(sensor);
+                _uoW.SensorRepository.Insert(SensorMapper.ToSensor(_validate, _stringLocalizer, sensor));
                 _uoW.Commit();
                 _uoW.Dispose();
                 return Created(nameof(GetSensor),sensor.Id);
@@ -60,15 +64,17 @@ namespace DIP.Sensors.API.Controllers
         [ProducesResponseType(StatusCodes.Status401Unauthorized)]
         [ProducesResponseType(StatusCodes.Status409Conflict)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public ActionResult<Sensor> GetSensor(string id)
+        public ActionResult<SensorDTO> GetSensor(string id)
         {
             try
             {
                 if (!Guid.TryParse(id, out Guid idG)) return NotFound(_stringLocalizer["SensorNotFound"]);
                 _uoW.BeginTransaction();
                 var sensor = _uoW.SensorRepository.Get(idG);
+
                 _uoW.Dispose();
-                return Ok(sensor);
+                return Ok(SensorDTO.ToSensorDTO(_validate, _stringLocalizer, sensor));
+
 
             }
             catch (Exception ex)
