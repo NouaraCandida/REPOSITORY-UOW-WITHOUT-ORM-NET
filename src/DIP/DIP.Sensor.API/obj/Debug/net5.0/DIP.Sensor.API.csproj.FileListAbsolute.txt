@@ -1,6 +1,0 @@
-/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/DIP.Sensor.API/obj/Debug/net5.0/DIP.Sensor.API.csproj.AssemblyReference.cache
-/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/DIP.Sensor.API/obj/Debug/net5.0/DIP.Sensor.API.GeneratedMSBuildEditorConfig.editorconfig
-/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/DIP.Sensor.API/obj/Debug/net5.0/DIP.Sensor.API.AssemblyInfoInputs.cache
-/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/DIP.Sensor.API/obj/Debug/net5.0/DIP.Sensor.API.AssemblyInfo.cs
-/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/DIP.Sensor.API/obj/Debug/net5.0/DIP.Sensor.API.csproj.CoreCompileInputs.cache
-/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/DIP.Sensor.API/obj/Debug/net5.0/DIP.Sensor.API.MvcApplicationPartsAssemblyInfo.cache
