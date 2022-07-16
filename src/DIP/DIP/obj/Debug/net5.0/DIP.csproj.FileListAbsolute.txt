@@ -1,6 +1,0 @@
-/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/DIP/obj/Debug/net5.0/DIP.csproj.AssemblyReference.cache
-/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/DIP/obj/Debug/net5.0/DIP.GeneratedMSBuildEditorConfig.editorconfig
-/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/DIP/obj/Debug/net5.0/DIP.AssemblyInfoInputs.cache
-/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/DIP/obj/Debug/net5.0/DIP.AssemblyInfo.cs
-/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/DIP/obj/Debug/net5.0/DIP.csproj.CoreCompileInputs.cache
-/Users/nxavier/Desktop/EstudoProg/DIP-NET/src/DIP/DIP/obj/Debug/net5.0/DIP.MvcApplicationPartsAssemblyInfo.cache
